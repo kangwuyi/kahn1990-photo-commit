@@ -4,3 +4,4 @@
 将删除 .idea/modules.xml
 将删除 .idea/workspace.xml
  node_modules/
+将删除 node_modules/sharp/lib/gio/
