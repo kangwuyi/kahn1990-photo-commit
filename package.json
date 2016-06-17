@@ -1,0 +1,38 @@
+{
+  "name": "kahn1990-photo-commit",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Pagination for nodejs, support bootstrap and custom the css style, support mysql and mongodb.",
+  "main": "index.js",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kahn1990/pagination-api"
+  },
+  "keywords": [
+    "pagination",
+    "nodejs",
+    "bootstrap",
+    "mysql",
+    "mongodb"
+  ],
+  "author": "kahn1990",
+  "email": "kangjian1990@live.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kahn1990/pagination-api/issues"
+  },
+  "homepage": "http://kahn1990.com,
+  "dependencies": {
+    "ali-oss": "^4.4.3",
+    "async": "~1.4.2",
+    "busboy": "^0.2.13",
+    "co": "^4.6.0",
+    "mysql": ">= 2.5.2",
+    "node-mysql": ">= 0.4.0",
+    "sharp": "^0.15.0",
+    "stream": "0.0.2",
+    "underscore": "^1.8.3",
+    "util": "^0.10.3"
+  }
+}
